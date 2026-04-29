@@ -28,5 +28,8 @@ public class Main {
         dev.progredir();
 
         System.out.println("XP total: " + dev.calcularXpTotal());
+        System.out.println("Conteúdos inscritos: " + dev.getInscritos().size());
+System.out.println("Conteúdos concluídos: " + dev.getConcluidos().size());
+System.out.println("XP total: " + dev.calcularXpTotal());
     }
 }
