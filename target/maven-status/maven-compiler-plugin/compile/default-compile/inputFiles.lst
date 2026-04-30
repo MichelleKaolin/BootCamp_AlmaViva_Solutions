@@ -1,0 +1,9 @@
+/workspaces/BootCamp_AlmaViva_Solutions/sistema_de_Gestão_de_Tickets_Michelle/src/main/java/com/michelle/tickets/controller/TicketController.java
+/workspaces/BootCamp_AlmaViva_Solutions/sistema_de_Gestão_de_Tickets_Michelle/src/main/java/com/michelle/tickets/model/Status.java
+/workspaces/BootCamp_AlmaViva_Solutions/sistema_de_Gestão_de_Tickets_Michelle/src/main/java/com/michelle/tickets/strategy/AtendimentoNormal.java
+/workspaces/BootCamp_AlmaViva_Solutions/sistema_de_Gestão_de_Tickets_Michelle/src/main/java/com/michelle/tickets/repository/TicketRepository.java
+/workspaces/BootCamp_AlmaViva_Solutions/sistema_de_Gestão_de_Tickets_Michelle/src/main/java/com/michelle/tickets/TicketsApplication.java
+/workspaces/BootCamp_AlmaViva_Solutions/sistema_de_Gestão_de_Tickets_Michelle/src/main/java/com/michelle/tickets/strategy/AtendimentoPrioritario.java
+/workspaces/BootCamp_AlmaViva_Solutions/sistema_de_Gestão_de_Tickets_Michelle/src/main/java/com/michelle/tickets/model/Ticket.java
+/workspaces/BootCamp_AlmaViva_Solutions/sistema_de_Gestão_de_Tickets_Michelle/src/main/java/com/michelle/tickets/service/TicketService.java
+/workspaces/BootCamp_AlmaViva_Solutions/sistema_de_Gestão_de_Tickets_Michelle/src/main/java/com/michelle/tickets/strategy/AtendimentoStrategy.java
