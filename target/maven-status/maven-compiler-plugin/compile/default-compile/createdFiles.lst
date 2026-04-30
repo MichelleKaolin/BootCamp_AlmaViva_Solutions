@@ -1,6 +1,0 @@
-com/michelle/tickets/service/TicketService.class
-com/michelle/tickets/model/Status.class
-src/java/com/michelle/tickets/TicketsApplication.class
-com/michelle/tickets/repository/TicketRepository.class
-com/michelle/tickets/controller/TicketController.class
-com/michelle/tickets/model/Ticket.class
