@@ -1,0 +1,29 @@
+# Compilação e Artefactos
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IntelliJ IDEA
+.idea/
+*.iws
+*.iml
+*.ipr
+out/
+
+# Eclipse
+.settings/
+.project
+.classpath
+.factorypath
+
+# VS Code
+.vscode/
+
+# Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
