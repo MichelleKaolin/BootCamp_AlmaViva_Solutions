@@ -1,0 +1,17 @@
+# Compilados
+out/
+*.class
+
+# IDE
+.idea/
+*.iml
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Temporários
+sources.txt
+*.tmp
+*.log
